@@ -1,0 +1,16 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
+notebook
+
+
+
+Sales-Prediction/
+│
+├── Advertising.csv
+├── TASK-4Sales_Prediction_using_Python.ipynb
+├── README.md
+└── requirements.txt
